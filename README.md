@@ -1,6 +1,6 @@
 # Hi, I'm Alba 👋
 
-PhD student in Food Sciences (UAM) at **IMDEA Food Institute**, Madrid.
+PhD student at **IMDEA Food Institute**, Madrid.
 I explore **microbiome–diet crosstalk in complex diseases** through metagenomics and multi-omics.
 
 ## 🔬 What I work on
