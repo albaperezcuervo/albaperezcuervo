@@ -27,6 +27,4 @@ I explore **microbiome–diet crosstalk in complex diseases** through metagenomi
 
 ## 📫 Find me
 - 📍 Madrid, Spain
-- ORCID: <!-- añade tu enlace -->
-- LinkedIn: <!-- añade tu enlace -->
-- Google Scholar: <!-- añade tu enlace -->
+- ORCID: https://orcid.org/0009-0006-2280-3201
