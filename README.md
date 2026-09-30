@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Alba 👋
 
-<!--
-**albaperezcuervo/albaperezcuervo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD student in Food Sciences (UAM) at **IMDEA Food Institute**, Madrid.
+I explore **microbiome–diet crosstalk in complex diseases** through metagenomics and multi-omics.
 
-Here are some ideas to get you started:
+## 🔬 What I work on
+- Phenotypic and molecular variability in response to the gluten-free diet (celiac disease) using AI and systems biology
+- Gut microbiome profiling: taxonomic and functional (MetaPhlAn, HUMAnN, Kraken2)
+- Multi-omics integration and network-based approaches
+- Graph neural networks and co-occurrence / LIONESS networks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
+**Bioinformatics:** MetaPhlAn · HUMAnN · Kraken2 · MaAsLin2 · phyloseq · NetworkX
+
+## 📌 Selected projects
+- [**TFM**](https://github.com/albaperezcuervo/TFM): predictive tool of AD status based on microbiome data (Python)
+- [**INFOGUT WG4 – TS2026 materials**](https://github.com/aponsero/INFOGUTWG4-TS2026-materials): training school materials (COST Action CA23110)
+
+## 🎓 Teaching & training
+- Trainer at the **INFOGUT Training School 2026** (COST Action CA23110, WG4 Data Science and Bioinformatics)
+- *Análisis e Interpretación de datos ómicos*, bioinformatics master's programme (ENS-ISCIII)
+
+## 📫 Find me
+- 📍 Madrid, Spain
+- ORCID: <!-- añade tu enlace -->
+- LinkedIn: <!-- añade tu enlace -->
+- Google Scholar: <!-- añade tu enlace -->
