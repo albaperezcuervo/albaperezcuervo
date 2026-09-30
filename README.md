@@ -27,4 +27,4 @@ I explore **microbiome–diet crosstalk in complex diseases** through metagenomi
 
 ## 📫 Find me
 - 📍 Madrid, Spain
-- ORCID: https://orcid.org/0009-0006-2280-3201
+- ORCID: [0009-0006-2280-3201](https://orcid.org/0009-0006-2280-3201)
