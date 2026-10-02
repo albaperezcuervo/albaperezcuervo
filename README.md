@@ -5,7 +5,7 @@ I explore **microbiome–diet crosstalk in complex diseases** through metagenomi
 
 ## 🔬 What I work on
 - Phenotypic and molecular variability in response to diet and disease (celiac disease, Parkinson's and other complex conditions) using AI and systems biology
-- Gut microbiome profiling: taxonomic and functional (MetaPhlAn, HUMAnN, Kraken2)
+- Gut microbiome profiling: taxonomic and functional 
 - Multi-omics integration and network-based approaches
 - Graph neural networks and co-occurrence networks 
 
